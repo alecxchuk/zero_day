@@ -1,1 +1,1 @@
-Funny readme 
+vagrant readme 
